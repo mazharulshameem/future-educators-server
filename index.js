@@ -8,10 +8,6 @@ app.use(cors());
 const categories = require("./Data/categories.json");
 const courses = require("./Data/courses.json");
 
-app.get("/", (req, res) => {
-  res.send("api ggggggg running");
-});
-
 app.get("/course-categories", (req, res) => {
   res.send(categories);
 });
@@ -26,8 +22,4 @@ app.get("/courses/:id", (req, res) => {
   const id = req.params.id;
   const selectedCourse = courses.find((n) => n.id === id);
   res.send(selectedCourse);
-});
-
-app.listen(port, () => {
-  console.log(" running ", port);
 });
