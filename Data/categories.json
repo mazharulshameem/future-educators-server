@@ -1,0 +1,26 @@
+[
+  {
+    "id": "01",
+    "name": "Front-End Development"
+  },
+  {
+    "id": "02",
+    "name": "Back-End Development"
+  },
+  {
+    "id": "03",
+    "name": "Programming Language"
+  },
+  {
+    "id": "04",
+    "name": " Software Development"
+  },
+  {
+    "id": "05",
+    "name": "Data Science"
+  },
+  {
+    "id": "06",
+    "name": "No-Code Development"
+  }
+]

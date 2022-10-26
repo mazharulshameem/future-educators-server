@@ -1,0 +1,472 @@
+[
+  {
+    "id": "01",
+    "title": "Learn HTML",
+    "category_id": "01",
+    "category": "Front-End Development",
+    "price": 49.99,
+    "instructor": " Jhonson Hobert",
+    "img": "https://img-c.udemycdn.com/user/200_H/7799204_2091_5.jpg",
+    "details": "While many guides on the internet attempt to teach HTML using a lot of mind-boggling theory, this tutorial will instead focus on giving you the practical skills to build your first site.The aim is to show you ‘how’ to create your first web page without spending the entire tutorial focusing too much on the “why.”By the end of this tutorial, you will have the know-how to create a basic website and we hope that this will inspire you to delve further into the world of HTML using our follow-on guides.",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/02/23/73/03/1000_F_223730334_0l31O1JBvtyw2B8Zkeu95LEqX0Y3PxjG.jpg",
+
+    "rating": "4.9"
+  },
+  {
+    "id": "02",
+    "title": "Learn CSS",
+    "category_id": "01",
+    "category": "Front-End Development",
+    "price": 50.99,
+    "instructor": " Hobert Liyon",
+    "img": "https://img-c.udemycdn.com/user/200_H/13952972_e853.jpg",
+    "details": "Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML (including XML dialects such as SVG, MathML or XHTML).[1] CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.[2]CSS is designed to enable the separation of content and presentation, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/00/75/92/23/1000_F_75922336_Jz2QgNOx7dnRea9ZI6yQTDtn1vHq5ejF.jpg",
+
+    "rating": "4.8"
+  },
+
+  {
+    "id": "03",
+    "title": "Learn Bootstrap",
+    "category_id": "01",
+    "category": "Front-End Development",
+    "price": 45.99,
+    "instructor": "Jhon Carlos",
+    "img": "https://img-c.udemycdn.com/user/200_H/5487312_0554.jpg",
+    "details": "Bootstrap is an HTML, CSS & JS Library that focuses on simplifying the development of informative web pages (as opposed to web apps). The primary purpose of adding it to a web project is to apply Bootstrap's choices of color, size, font and layout to that project. As such, the primary factor is those choices to their liking. Once added to a project, Bootstrap  all HTML elements. The result is a uniform appearance for prose, tables and form elements across web browsers. In addition, developers can CSS classes defined in Bootstrap to further customize the appearance of their contents. For example, Bootstrap has provisioned for light- and dark-colored tables, page headings, more prominent pull quotes, and text with a highlight.",
+    "thumbnail": "https://as1.ftcdn.net/v2/jpg/05/25/17/56/1000_F_525175657_Xg1r2OlolB6ozKK5MRqBxPxyqwJqEiwe.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "04",
+    "title": "Learn Github",
+    "category_id": "01",
+    "category": "Front-End Development",
+    "price": 59.99,
+    "instructor": "Andrei Neagoie",
+    "img": "https://img-c.udemycdn.com/user/200_H/38516954_b11c_3.jpg",
+    "details": "At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. To understand exactly what GitHub is, you need to know two connected principles:Version control GitIn this article, we’ll first explain those two principles. Then, we’ll dig into more about GitHub and how you can actually use GitHub to work with WordPress and/or Kinsta.Git is a specific open-source version control system created by Linus Torvalds in 2005.Specifically, Git is a distributed version control system, which means that the entire codebase and history is available on every developer’s computer, which allows for easy branching and merging.",
+
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/02/50/39/63/1000_F_250396352_2AAgVSEFNdZLtJwAgN4oNM1ty6ezUaEM.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "05",
+    "title": "Learn JavaScript",
+    "category_id": "01",
+    "category": "Front-End Development",
+    "price": 59.99,
+    "instructor": "Liyon Jhon",
+    "img": "https://img-c.udemycdn.com/user/200_H/4466306_6fd8_3.jpg",
+    "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.JavaScript is a high-level, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM).",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/00/75/92/23/1000_F_75922332_V8jiJ9I2F9d9HqV7RtPzUAxr5s7YHWOd.jpg",
+
+    "rating": "4.9"
+  },
+  {
+    "id": "06",
+    "title": "Learn React",
+    "category_id": "01",
+    "category": "Front-End Development",
+    "price": 49.99,
+    "instructor": "George Munsey",
+    "img": "https://img-c.udemycdn.com/user/200_H/38516954_b11c_3.jpg",
+    "details": "React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.Declarative views make your code more predictable and easier to debug.Build encapsulated components that manage their own state, then compose them to make complex UIs.Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.",
+    "thumbnail": "https://as1.ftcdn.net/v2/jpg/03/04/97/12/1000_F_304971233_mQ4xlfnBGSszgzJPYzQnZtWI04ZNmuuP.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "07",
+    "title": "Learn NodeJS",
+    "category_id": "02",
+    "category": "Back-End Development",
+    "price": 59.99,
+    "instructor": "Dr. Angela Yu",
+    "img": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_3.jpg",
+    "details": "Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.A Node.js app runs in a single process. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code performs an I/O operation, like reading from the network, accessing a database or the filesystem,the thread and wasting CPU cycles waiting, Node.js will resume the operations when the response comes back.",
+    "thumbnail": "https://as1.ftcdn.net/v2/jpg/03/52/67/82/1000_F_352678266_NFcwIwhhY76mkQItT4lCxyxcCTP3LgvY.jpg",
+
+    "rating": "4.9"
+  },
+  {
+    "id": "08",
+    "title": "Learn ExpressJS",
+    "category_id": "02",
+    "category": "Back-End Development",
+    "price": 59.99,
+    "instructor": "Denis Panjuta",
+    "img": "https://img-c.udemycdn.com/user/200_H/4573650_9792_2.jpg",
+    "details": "Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs.It has been called the de facto standard server framework for Node.js.The original author, TJ Holowaychuk, described it as a Sinatra-inspired server,[5] meaning that it is relatively minimal with many features available as plugins. Express is the back-end component of popular development stacks like the MEAN, MERN or MEVN stack, together with the MongoDB database software and a JavaScript front-end framework or library.",
+    "thumbnail": "https://learncybers.com/wp-content/uploads/2019/04/express-js-introduction.jpg",
+
+    "rating": "4.7"
+  },
+  {
+    "id": "09",
+    "title": "Learn Django",
+    "category_id": "02",
+    "category": "Back-End Development",
+    "price": 65.99,
+    "instructor": "Butler Terom",
+    "img": "https://img-c.udemycdn.com/user/200_H/14044590_270b_3.jpg",
+    "details": "Django is a high-level Python web framework that enables rapid development of secure and maintainable websites. Built by experienced developers, Django takes care of much of the hassle of web development, so you can focus on writing your app without needing to reinvent the wheel. It is free and open source, has a thriving and active community, great documentation, and many options for free and paid-for support.Django helps you write software that is:CompleteDjango follows the  philosophy and provides almost everything developers might want to do.",
+    "thumbnail": "https://as1.ftcdn.net/v2/jpg/00/73/01/56/1000_F_73015687_Lg4EztjnF3WkpUCesOc51YJ0e6R1JR3V.jpg",
+
+    "rating": "4.7"
+  },
+  {
+    "id": "10",
+    "title": "Learn PHP",
+    "category_id": "02",
+    "category": "Back-End Development",
+    "price": 56.99,
+    "instructor": "Kevon OBrein",
+    "img": "https://img-c.udemycdn.com/user/200_H/38516954_b11c_3.jpg",
+    "details": "PHP tutorial for beginners and professionals provides in-depth knowledge of PHP scripting language. Our PHP tutorial will help you to learn PHP scripting language easily.This PHP tutorial covers all the topics of PHP such as introduction, control statements, functions, array, string, file handling, form handling, regular expression, date and time, object-oriented programming in PHP, math, PHP MySQL, PHP with Ajax, PHP with jQuery and PHP with XML.",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/03/05/19/51/1000_F_305195140_OG1FytqkF4PyjJF8Zz2J4AgsOQgQYvUm.jpg",
+
+    "rating": "4.5"
+  },
+  {
+    "id": "11",
+    "title": "Learn MySQL",
+    "category_id": "02",
+    "category": "Back-End Development",
+    "price": 59.99,
+    "instructor": "Haris Beron",
+    "img": "https://img-c.udemycdn.com/user/200_H/7799204_2091_5.jpg",
+    "details": "MySQL is an open-source relational database management system (RDBMS).[5][6] Its name is a combination of, the name of co-founder Michael Widenius's daughter My,[7] and , the abbreviation for Structured Query Language. A relational database organizes data into one or more data tables in data. SQL is a language programmers use to create, modify and extract data from the relational database, as well as control user access to the database. In addition to relational databases and SQL, an RDBMS like MySQL works with an operating system to implement a relational database ",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/02/29/98/71/1000_F_229987158_OiCR9tDrtzJ7rYUZWlHDkhYLw2fAj3ky.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "12",
+    "title": "Learn MongoDB",
+    "category_id": "02",
+    "category": "Back-End Development",
+    "price": 56.99,
+    "instructor": "Sahriz Rojan",
+    "img": "https://img-c.udemycdn.com/user/200_H/5487312_0554.jpg",
+    "details": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions.",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/02/29/98/71/1000_F_229987158_OiCR9tDrtzJ7rYUZWlHDkhYLw2fAj3ky.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "13",
+    "title": "Learn C Programming",
+    "category_id": "03",
+    "category": "Programming Language",
+    "price": 49.99,
+    "instructor": "Robin Liyon",
+    "img": "https://img-b.udemycdn.com/user/200_H/55293434_b186.jpg",
+    "details": "C language Tutorial with programming approach for beginners and professionals, helps you to understand the C language tutorial easily. Our C tutorial explains each topic with programs.C is considered as a middle-level language because it supports the feature of both low-level and high-level languages. C language program is converted into assembly code, it supports pointer arithmetic (low-level), but it is machine independent (a feature of high-level).",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/01/23/79/91/1000_F_123799116_Onhj4glsMUYtD8XkA9FJSzAMV7zfiI0w.jpg",
+
+    "rating": "4.9"
+  },
+  {
+    "id": "14",
+    "title": "Learn Java Programming",
+    "category_id": "03",
+    "category": "Programming Language",
+    "price": 55.99,
+    "instructor": "Vejos Raihan",
+    "img": "https://img-c.udemycdn.com/user/200_H/6602338_9b50.jpg",
+    "details": "Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.Platform: Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE) and API, it is called a platform.",
+    "thumbnail": "https://as1.ftcdn.net/v2/jpg/00/97/74/04/1000_F_97740459_xGiDM8HdSCn8OXypT8BV9SKGxblzsrDf.jpg",
+
+    "rating": "4.9"
+  },
+  {
+    "id": "15",
+    "title": "Learn C++ Programming",
+    "category_id": "03",
+    "category": "Programming Language",
+    "price": 45.99,
+    "instructor": " Tom Cooper",
+    "img": "https://img-b.udemycdn.com/user/200_H/41370774_8713.jpg",
+    "details": "C++ is a general purpose, case-sensitive, free-form programming language that supports object-oriented, procedural and generic programming.C++ is a middle-level language, as it encapsulates both high and low level language features.Standard C++ programming is divided into three important parts:The core library includes the data types, variables and literals, etc.The standard library includes the set of functions manipulating strings, files, etc.The Standard Template Library (STL) includes the set of methods manipulating a data structure.",
+    "thumbnail": "https://as2.ftcdn.net/v2/jpg/01/24/52/87/1000_F_124528739_ONUwwMmRCtX6iJTdCm9qZmcFi2gHH1mW.jpg",
+
+    "rating": "4.9"
+  },
+  {
+    "id": "16",
+    "title": "Python Programming",
+    "category_id": "03",
+    "category": "Programming Language",
+    "price": 56.99,
+    "instructor": " Rajon Tedkor",
+    "img": "https://img-c.udemycdn.com/user/200_H/83441670_791d.jpg",
+    "details": "Python is a general purpose, dynamic, high-level, and interpreted programming language. It supports Object Oriented programming approach to develop applications. It is simple and easy to learn and provides lots of high-level data structures.Python is easy to learn yet powerful and versatile scripting language, which makes it attractive for Application Development.Python's syntax and dynamic python supports multiple programming pattern, including object-oriented, imperative, and functional or procedural programming styles.",
+    "thumbnail": "https://as1.ftcdn.net/v2/jpg/04/16/81/02/1000_F_416810262_aTI8GcxNcsJcCZ1SDPhaHP2QCJZDFzMg.jpg",
+
+    "rating": "4.7"
+  },
+  {
+    "id": "17",
+    "title": "Learn Kotlin Programming",
+    "category_id": "03",
+    "category": "Programming Language",
+    "price": 60.99,
+    "instructor": "Din Ambrose",
+    "img": "https://img-b.udemycdn.com/user/200_H/55293434_b186.jpg",
+    "details": "The Society for Worldwide Interbank Financial Telecommunication (SWIFT), legally S.W.I.F.T. SC, is a Belgian cooperative society providing services related to the execution of financial transactions and payments between banks worldwide. Its principal function is to serve as the main messaging network through which international payments are initiated.[2] It also sells software and services to financial institutions, mostly for use on its proprietary SWIFTNet, and assigns ISO 9362 Business Identifier Codes (BICs), popularly known as SWIFT codes.",
+    "thumbnail": "https://developer.apple.com/swift/images/swift-og.png",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "18",
+    "title": "Learn Swift Programming",
+    "category_id": "03",
+    "category": "Programming Language",
+    "price": 64.99,
+    "instructor": "Din Ambrose",
+    "img": "https://img-c.udemycdn.com/user/200_H/38516954_b11c_3.jpg",
+    "details": "Kotlin  is a cross-platform, statically typed, general-purpose programming language with type inference. Kotlin is designed to interoperate fully with Java, and the JVM version of Kotlin'[failed verification] but type inference allows its syntax to be more concise. Kotlin mainly targets the JVM, but also compiles to JavaScript (e.g., for frontend web applications using Reac or native code via LLVM (e.g., for native iOS apps sharing business logic with Android apps). Language development costs are borne by JetBrains, while the Kotlin Foundation protects the Kotlin trademark.",
+    "thumbnail": "https://as1.ftcdn.net/v2/jpg/02/74/44/42/1000_F_274444210_gAkd8RncGyKkmTTpCJ6iRnUeFCMoAfmh.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "19",
+    "title": "Google Flutter Development  ",
+    "category_id": "04",
+    "category": "Software Development",
+    "price": 48.99,
+    "instructor": " Roger Temir",
+    "img": "https://img-c.udemycdn.com/user/200_H/4573650_9792_2.jpg",
+    "details": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase.Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. Flutter works with existing code, is used by developers and organizations around the world, and is free and open source.",
+    "thumbnail": "https://play-lh.googleusercontent.com/5e7z5YCt7fplN4qndpYzpJjYmuzM2WSrfs35KxnEw-Ku1sClHRWHoIDSw3a3YS5WpGcI",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "20",
+    "title": "Learn iOS Development",
+    "category_id": "04",
+    "category": "Software Development",
+    "price": 57.99,
+    "instructor": "Stephen De",
+    "img": "https://img-b.udemycdn.com/user/200_H/7686566_0c26_11.jpg",
+    "details": "iOS is Apple’s mobile OS that runs on an iPhone, iPad, iPod Touch hardware. Apple provides tools and resources for creating iOS apps and accessories for these devices. As an iOS developer, you can program in native languages such as Swift or Objective-C or build cross-platform native applications using React Native (JavaScript) or Xamarin (C# & F#).It is important to note that Xcode only runs on Mac OS X and the only supported way to develop iOS apps.Explore the tools, technologies, capabilities, and languages included in the iOS SDK that make app development possible. Some iOS SDK essentials are the Cocoa Touch frameworks that include the UIKit,",
+    "thumbnail": "https://www.armia.com/project/img/ios.png",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "21",
+    "title": "Learn Android Development",
+    "category_id": "04",
+    "category": "Software Development",
+    "price": 57.99,
+    "instructor": "Franko Rafin",
+    "img": "https://img-c.udemycdn.com/user/200_H/6602338_9b50.jpg",
+    "details": "Develop Android games and deploy them to multiple device types on Android, Chrome OS, and Windows by using the Android Game Development Kit and Google Play. Learn to use tools, best practices, and game services that support your development workflow, improve game performance, and include a wide audience of players.",
+    "thumbnail": "http://harvijas.com/wp-content/uploads/2021/05/android.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "22",
+    "title": "Learn React Native",
+    "category_id": "04",
+    "category": "Software Development",
+    "price": 50.99,
+    "instructor": "Haris Beron ",
+    "img": "https://img-c.udemycdn.com/user/200_H/4573650_9792_2.jpg",
+    "details": "React primitives render to native platform UI, meaning your app uses the same native platform APIs other apps do.Many platforms, one React. Create platform-specific versions of components so a single codebase can share code across platforms. With React Native, one team can maintain two platforms and share a common technology—React..",
+    "thumbnail": "https://icts.io/wp-content/uploads/2020/04/react-native.png",
+
+    "rating": "4.5"
+  },
+  {
+    "id": "23",
+    "title": "Learn Dart Development",
+    "category_id": "04",
+    "category": "Software Development",
+    "price": 60.99,
+    "instructor": "Suporom V",
+    "img": "https://img-c.udemycdn.com/user/200_H/13491012_dcd7_7.jpg",
+    "details": "Dart is a programming language designed for client development, such as for the web and mobile apps. It is developed by Google and can also be used to build server and desktop applications. It is an object-oriented, class-based, garbage-collected language with C-style syntaxDart is an open-source general-purpose programming language. It is originally developed by Google and later approved as a standard by ECMA. Dart is a new",
+    "thumbnail": "https://w7.pngwing.com/pngs/106/833/png-transparent-dart-logo-programming-language-computer-programming-android-text-logo-computer-programming-thumbnail.png",
+
+    "rating": "4.7"
+  },
+  {
+    "id": "24",
+    "title": " Mobile App Development",
+    "category_id": "04",
+    "category": "Software Development",
+    "price": 65.99,
+    "instructor": "Rayan josh",
+    "img": "https://img-c.udemycdn.com/user/200_H/83441670_791d.jpg",
+    "details": "Mobile app development is the act or process by which a mobile app is developed for mobile devices, such as personal digital assistants, enterprise digital assistants or mobile phones. These software applications are designed to run on mobile devices, such as a smartphone or tablet computer. These applications can be pre-installed on phones during manufacturing platforms, or delivered as web applications using server-side or client-side processing (e.g., JavaScript) to provide an application-like experience within a web browser.",
+    "thumbnail": "https://www.appindia.co.in/images/mobile-app-development-img2.png",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "25",
+    "title": " Machine Learning for Beginners",
+    "category_id": "05",
+    "category": "Data Science",
+    "price": 50.99,
+    "instructor": "Aaron Fince",
+    "img": "https://img-b.udemycdn.com/user/200_H/55293434_b186.jpg",
+    "details": "Machine learning (ML) is a type of artificial intelligence (AI) that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so. Machine learning algorithms use historical data as input to predict new output values.Recommendation engines are a common use case for machine learning. Other popular uses include fraud detection, spam filtering, malware threat detection, business process automation (BPA) and Predictive maintenance",
+    "thumbnail": "https://as1.ftcdn.net/v2/jpg/01/85/47/12/1000_F_185471269_ZK4nN8CjcFK6LuMEezsOrZ6s0KUq2VvR.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "26",
+    "title": " Deep Learning for Beginners",
+    "category_id": "05",
+    "category": "Data Science",
+    "price": 60.99,
+    "instructor": "Glenn Martin",
+    "img": "https://img-c.udemycdn.com/user/200_H/6602338_9b50.jpg",
+    "details": "Deep learning is a subset of machine learning, which is essentially a neural network with three or more layers. These neural networks attempt to simulate the behavior of the human brain—albeit far from matching its ability—allowing it to “learn” from large amounts of data. While a neural network with a single layer can still make approximate predictions, additional hidden layers can help to optimize and refine for accuracy.",
+    "thumbnail": "https://bluemarkacademy.com/wp-content/uploads/2020/12/deep-learning-logo.jpg",
+
+    "rating": "4.7"
+  },
+  {
+    "id": "27",
+    "title": "Explore Artificial Intelligence",
+    "category_id": "05",
+    "category": "Data Science",
+    "price": 80.99,
+    "instructor": "Copper Boris",
+    "img": "https://img-b.udemycdn.com/user/200_H/57256360_0c65.jpg",
+    "details": "Artificial intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think like humans and mimic their actions. The term may also be applied to any machine that exhibits traits associated with a human mind such as learning and problem-solving.The ideal characteristic of artificial intelligence is its ability to rationalize and take actions that have the best chance of achieving a specific goal. A subset of artificial intelligence is machine learning (ML).",
+    "thumbnail": "https://i.pinimg.com/originals/1b/55/f4/1b55f4919d179427e31a69301b3376b9.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "28",
+    "title": "Natural Language Processing",
+    "category_id": "05",
+    "category": "Data Science",
+    "price": 34.99,
+    "instructor": "Martin Loung",
+    "img": "https://img-c.udemycdn.com/user/200_H/32330042_aeeb.jpg",
+    "details": "Natural language processing strives to build machines that understand and respond to text or voice data—and respond with text or speech of their own—in much the same way humans do.Natural language processing (NLP) refers to the branch of computer science—and more specifically, the branch of artificial intelligence or AI—concerned with giving computers the ability to understand text and spoken words in much the same way human beings can.",
+    "thumbnail": "https://utilityanalytics.com/wp-content/uploads/2020/07/NLP-e1595362635214.jpg",
+
+    "rating": "4.7"
+  },
+  {
+    "id": "29",
+    "title": "Learn Statistics for Beginners",
+    "category_id": "05",
+    "category": "Data Science",
+    "price": 29.99,
+    "instructor": "Devon Conway",
+    "img": "https://img-c.udemycdn.com/user/200_H/4116740_b790_2.jpg",
+    "details": "Statistics is a branch of applied mathematics that involves the collection, description, analysis, and inference of conclusions from quantitative data. The mathematical theories behind statistics rely heavily on differential and integral calculus, linear algebra, and probability theory.The data is summarised and explained in descriptive statistics.  Descriptive statistics is a way of organizing, representing, and explaining a set of data using charts, graphs, and summary measures",
+    "thumbnail": "https://marketbusinessnews.com/wp-content/uploads/2016/06/What-is-statistics.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "30",
+    "title": "Data Analysis for Beginners",
+    "category_id": "05",
+    "category": "Data Science",
+    "price": 30.99,
+    "instructor": "Devon Conway",
+    "img": "https://img-c.udemycdn.com/user/200_H/419468_0023.jpg",
+    "details": "Data analysis is the process of cleaning, changing, and processing raw data, and extracting actionable, relevant information that helps businesses make informed decisions. The procedure helps reduce the risks inherent in decision-making by providing useful insights and statistics, often presented in charts, images, tables, and graphs.It’s not uncommon to hear the term “big data” brought up in discussions about data analysis. Data analysis plays a crucial role in processing big data into useful information.",
+    "thumbnail": "https://cdn4.vectorstock.com/i/1000x1000/56/73/data-analysis-concept-vector-25125673.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "31",
+    "title": "Learn WordPress for Beginners",
+    "category_id": "06",
+    "category": "No-Code Development",
+    "price": 49.99,
+    "instructor": "Deigo Devila",
+    "img": "https://img-c.udemycdn.com/user/200_H/801404_1ceb_13.jpg",
+    "details": "WordPress is a free, open-source website creation platform. On a more technical level, WordPress is a content management system (CMS) written in PHP that uses a MySQL database. In non-geek speak, WordPress is the easiest and most powerful blogging and website builder in existence today.WordPress is an excellent website platform for a variety of websites. From blogging to e-commerce to business and portfolio websites, WordPress is a versatile CMS. Designed with usability and flexibility in mind, WordPress is a great solution for both large and small websites.",
+    "thumbnail": "https://play-lh.googleusercontent.com/a2NazRVOHSG7ujMkO1YENlUARt0rZul9ow20sAtqoc1oBEGZxk3YjlXb43lhCwxhmUY",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "32",
+    "title": "Learn Bubble Visual Programming",
+    "category_id": "06",
+    "category": "No-Code Development",
+    "price": 39.99,
+    "instructor": "Glenn Philips",
+    "img": "https://img-c.udemycdn.com/user/200_H/40137290_e30f_7.jpg",
+    "details": "Bubble is a no-code app building platform designed to help you build software and applications without programming.Back in the day (or, you know...a few years ago), developing apps was only for people who:a project (often upwards of hundreds of thousands of dollars!)To put it simply, building an app used to be almost out of reach for the non-technical person. And in order to  find a tech co-founder, raise money (or invest a lot of their own), or spend a few years learning how to code efficiently.",
+    "thumbnail": "https://s3.amazonaws.com/appforest_uf/f1530294839424x143528842134401200/Icon-no-clearspace.png",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "33",
+    "title": "Learn Wix for Absolute Beginners",
+    "category_id": "06",
+    "category": "No-Code Development",
+    "price": 29.99,
+    "instructor": "Muktari Deliny",
+    "img": "https://img-c.udemycdn.com/user/200_H/124160166_9ac1_2.jpg",
+    "details": "Hat is Wix, and how can it help you get online? For fans of do-it-yourself website creation who are leery of learning how to code, Wix should be on your shortlist of prospective tools for the job. your portfolio, small business website, blog, or online store.Website builders are the DIYer’s dream. If you want to build a site without hiring a developer or learning to code, be sure to check out our review of Wix below, along with how the platform compares to other premium site builder options.",
+    "thumbnail": "https://seeklogo.com/images/W/wix-logo-EC7D63748F-seeklogo.com.png",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "34",
+    "title": "Learn SquareSpace for Beginners",
+    "category_id": "06",
+    "category": "No-Code Development",
+    "price": 33.99,
+    "instructor": "Liam Marcelo",
+    "img": "https://img-b.udemycdn.com/user/200_H/55293434_b186.jpg",
+    "details": "First and foremost, SquareSpace is a site-building service.It makes sense that we’d take a look at the e-commerce features that it offers for web design first.The great thing about SquareSpace is that it puts quality template designs first and foremost for its customers. Unlike with Shopify and WordPress, you don’t get access to hundreds of templates, there’s actually just over 60 options to choose from.",
+    "thumbnail": "https://fleurironline.com/wp-content/uploads/2019/12/squarespace-logo.jpg",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "35",
+    "title": "Learn Elementor for Beginners",
+    "category_id": "06",
+    "category": "No-Code Development",
+    "price": 37.99,
+    "instructor": "Shelok Miamis",
+    "img": "https://img-c.udemycdn.com/user/200_H/11393870_514c_10.jpg",
+    "details": "Elementor website builder is free and open source. It’s the perfect plugin to be extended and integrated further. It was created and developed with the developer in mind, and we have integrate with Elementor, we have created the official Elementor Developers Center. Check the Developers Blog to discover the latest information from the programmers working on the newest Elementor versions, or visit the Developers Docs to learn how to extend Elementor core and create your own addons.",
+    "thumbnail": "https://w7.pngwing.com/pngs/522/952/png-transparent-elementor-logo-logos-logos-and-brands-icon-thumbnail.png",
+
+    "rating": "4.8"
+  },
+  {
+    "id": "36",
+    "title": " Microsoft Power Apps for Beginners ",
+    "category_id": "06",
+    "category": "No-Code Development",
+    "price": 37.99,
+    "instructor": "Veretti Lisan",
+    "img": "https://img-c.udemycdn.com/user/200_H/96293838_c744_7.jpg",
+    "details": "Microsoft Power Apps is one of the tools with the Microsoft Power Platform that enables you to build custom apps, to accommodate your business needs or solve your problems when you cannot find a suitable off-the-shelf solution. The apps you use can quickly connect to your stored business data, that is either located in an underlying data platform (for example Microsoft Dataverse, previously known as the Common Data Service) or within an on-premise/online data source, for example; Excel, SharePoint, Office 365, SQL Server and Dynamics 365.",
+    "thumbnail": "https://valto.co.uk/wp-content/uploads/2020/03/PowerAppsLogo.png",
+
+    "rating": "4.8"
+  }
+]
